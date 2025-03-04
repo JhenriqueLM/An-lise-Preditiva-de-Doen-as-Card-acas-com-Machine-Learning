@@ -1,8 +1,3 @@
-Este projeto utiliza Machine Learning para prever doenças cardíacas com base em dados clínicos. O código pré-processa os dados, removendo outliers, normalizando variáveis ​​e separando-os para treinamento e teste. Modelos comparados: RandomForest, LogisticRegression, KNN e AdaBoost. O projeto Pandas,Matplotlib,Seaborne Scikit-Learn.
-
-
-
-
 import numpy as np 
 import pandas as pd
 import matplotlib.pyplot as plt 
